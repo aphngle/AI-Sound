@@ -1,0 +1,3 @@
+F:\AI Sound\Test\Test\obj\Debug\Test.njsproj.AssemblyReference.cache
+F:\AI Sound\Test\Test\obj\Debug\Test.njsproj.CoreCompileInputs.cache
+F:\AI Sound\Test\Test\bin\Microsoft.NodejsTools.WebRole.dll
